@@ -1,2 +1,2 @@
 # github-example
-a repository to confirm github is successfully linked to my personal computer
+a repository to confirm git and github are accurately connected to my personal computer 
